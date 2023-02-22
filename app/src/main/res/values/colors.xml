@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="electron_blue">#0984e3</color>
+    <color name="green_darner">#74b9ff</color>
+
+
+    <color name="robin_blue">#00cec9</color>
+    <color name="mint_leaf">#00b894</color>
+
+    <color name="chi_red">#d63031</color>
+
+    <color name="city_gray">#dfe6e9</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="white_bg">#F4F6FA</color>
+    <color name="red">#D33838</color>
+    <color name="blue">#16205B</color>
+</resources>
